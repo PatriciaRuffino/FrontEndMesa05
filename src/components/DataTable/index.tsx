@@ -15,29 +15,29 @@ const DataTable = () => {
             <tr>
                 <td>Começando com React</td>
                 <td>Patricia</td>
-                <td>04</td>
-                <td>01</td>
+                <td>4</td>
+                <td>1</td>
                 <td>1</td>
             </tr>
             <tr>
                 <td>Começando com React</td>
                 <td>Anderson</td>
-                <td>04</td>
-                <td>01</td>
+                <td>4</td>
+                <td>1</td>
                 <td>1</td>
             </tr>
             <tr>
                 <td>Começando com React</td>
                 <td>Willian</td>
-                <td>04</td>
-                <td>01</td>
+                <td>4</td>
+                <td>1</td>
                 <td>1</td>
             </tr>
             <tr>
                 <td>Começando com React</td>
                 <td>Ronilson</td>
-                <td>04</td>
-                <td>01</td>
+                <td>4</td>
+                <td>1</td>
                 <td>1</td>
             </tr>
             <tr>
